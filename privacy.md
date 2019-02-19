@@ -106,8 +106,7 @@ Brave New Word uses the collected data for various purposes:
   * To monitor the usage of our Service
   * To detect, prevent and address technical issues
 
-## Legal Basis for Processing Personal Data under the General Data Protection
-Regulation (GDPR)  
+## Legal Basis for Processing Personal Data under the General Data Protection Regulation (GDPR)  
 
 If you are from the European Economic Area (EEA), Brave New Word legal basis
 for collecting and using the personal information described in this Privacy
@@ -177,8 +176,7 @@ transmission over the Internet or method of electronic storage is 100% secure.
 While we strive to use commercially acceptable means to protect your Personal
 Data, we cannot guarantee its absolute security.
 
-## Our Policy on "Do Not Track" Signals under the California Online Protection
-Act (CalOPPA)  
+## Our Policy on "Do Not Track" Signals under the California Online Protection Act (CalOPPA)  
 
 We do not support Do Not Track ("DNT"). Do Not Track is a preference you can
 set in your web browser to inform websites that you do not want to be tracked.
@@ -186,8 +184,7 @@ set in your web browser to inform websites that you do not want to be tracked.
 You can enable or disable Do Not Track by visiting the Preferences or Settings
 page of your web browser.
 
-## Your Data Protection Rights under the General Data Protection Regulation
-(GDPR)  
+## Your Data Protection Rights under the General Data Protection Regulation (GDPR)  
 
 If you are a resident of the European Economic Area (EEA), you have certain
 data protection rights. Brave New Word aims to take reasonable steps to allow
