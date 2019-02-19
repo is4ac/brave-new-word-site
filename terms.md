@@ -2,7 +2,7 @@
 
 # Terms of Use
 
-Last updated February 19, 2018
+Last updated February 19, 2019
 
 ## AGREEMENT TO TERMS
 
