@@ -1,3 +1,5 @@
+[Home](index) -> [Terms of Use](terms)
+
 # Terms of Use
 
 Last updated February 19, 2018
