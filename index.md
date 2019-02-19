@@ -10,3 +10,5 @@ Before you play the game, please read our:
 
 - [Terms of Service](terms.md)
 - [Privacy Policy](privacy.md)
+
+Download and play our game on the Google Play Store, Apple Store, or Steam!
