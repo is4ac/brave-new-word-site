@@ -1,3 +1,5 @@
+[Home](index) -> [Privacy Policy](privacy)
+
 # Privacy Policy 
 
 Effective date: February 19, 2019
