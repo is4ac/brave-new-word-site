@@ -69,7 +69,7 @@ We reserve the right, but not the obligation, to: (1) monitor the App for violat
 
 ## PRIVACY POLICY
 
-We care about data privacy and security. Please review our [Privacy Policy](privacy.md). By using the App, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the App is hosted in the United States. If you access the App from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the App, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
+We care about data privacy and security. Please review our [Privacy Policy](privacy). By using the App, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the App is hosted in the United States. If you access the App from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the App, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
 
 ## TERM AND TERMINATION
 
