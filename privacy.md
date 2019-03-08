@@ -86,6 +86,8 @@ device you use, your mobile device unique ID, the IP address of your mobile
 device, your mobile operating system, the type of mobile Internet browser you
 use, unique device identifiers and other diagnostic data ("Usage Data").
 
+If you do not consent to providing such information, or contributing data please refrain from playing. If you want more details on what your information will be used for, please feel free to contact us by email at bravenewwordgame@gmail.com.
+
 ##### Tracking Data  
 
 We use tracking technologies to track the activity on our
