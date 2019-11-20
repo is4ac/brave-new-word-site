@@ -11,4 +11,4 @@ Before you play the game, please read our:
 - [Terms of Service](terms)
 - [Privacy Policy](privacy)
 
-Download and play our game on the Google Play Store, Apple Store, or Steam!
+Download and play our game on the Google Play Store or the Apple Store!
